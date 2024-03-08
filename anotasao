@@ -197,18 +197,37 @@ ce tua HIERARQUIA nao for abedesida teus dado vai apereser ou antes ou depois da
 
 
 
+
 (TAGS)
 [TD]
 [TR] /LINHAS\
-[TABLE] /FAZER LINAH\
+[TABLE] /FAZER LINHA\
 [CLASS] /USADO PARA BOTA NO CSS\
-[H1] /(TITULO)\
+[H1, H2, H3, H4, H5] /(TITULO)\
 [STYLE] /(EO ESTILO DO HTML)\
 [BORDER-COLLAPSE] /(PRA SABE QUE VC QUE COLADO OU GUNTO)\
-[TEXT-ALIGN] (CENTER)=> /BOTA NO MEIO DA TELA (RIGHT)=> BOTA NA DIREITA (LEFT)=>ESQUERDA\
+[TEXT-ALIGN] (CENTER)=> /BOTA NO MEIO DA TELA (RIGHT)=> BOTA
+NA DIREITA (LEFT)=>ESQUERDA\
 [VERTICAL-ALING] /ALINHAMENTO VERTICAL\
 [TEXT-ALIGN] /ALINHAMENTO HORIZONTAL\
-
+[THEAD] /PODE TER (TR, TD, TH,)
+[TBODY] /PODE TER (TR, TD, TH,)
+[TFOOT] /PODE TER (TR, TD, TH,)
+[STRONG] /SERVE PARA DA FORSA PARA PALAVRA\
+[TABLE DATA = dado de tabela]
+[TABLE = tabela]
+[TABLE ROW = linha de tabela]
+[TABLE HEADER = cabeçalho sw tabela]
+[position. relativo]
+[position. absoluto.]
+[text.transform] /uppercase. */bota a letra mais ucula
+consorsio w3c ele na html 5 ele bota como opisional o fechamento da teg\
+[TBODY > TB] /PRA FAZER EFEITO ZEBRADO E PRESISO FAZER COM A TAG TBODY > TR:NTH-CHILD(2.N)
+[EVEN] (PAR)
+[OBB] INPAR
+PODE USAR [2.N-1] OU [2.N]
+[COLSPAN] SERVE PRA ALMENTA COLUNAS PROS LADOS 
+[ROWSPÁN] SERVE PRA ALMENTA COLUNAS PRA BAIXO
 
 
 
