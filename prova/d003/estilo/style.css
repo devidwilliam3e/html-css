@@ -56,7 +56,7 @@ header > p {
     font-family: var(--fonte-padrao);
     font-size: 1.2em;
     color: white;
-    max-width: 600px;
+    max-width: 800px;
     padding-right: 10px;
     padding-left: 10px;
     margin: auto;
@@ -145,7 +145,7 @@ main img.pequena {
     max-width: 350px;
     display: block;
     margin: auto;
-}
+       }
 
 div.video {
     background-color: var(--cor5);
@@ -159,7 +159,7 @@ div.video > iframe {
     position: absolute;
     top: 5%;
     left: 5%;
-    width: 90%;
+    width: 90%;  
     height: 90%;
 }
 
