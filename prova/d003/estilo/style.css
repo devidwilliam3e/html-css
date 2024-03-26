@@ -43,7 +43,7 @@ header {
     padding-top: 40px;
 }
 
-header > h1 {
+header > h2 {
     color: var(--cor2);
     font-family: var(--fonte-destaque);
     font-size: 3em;
